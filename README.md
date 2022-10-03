@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [Yoroi](https://github.com/Emurgo/yoroi-frontend)
 
-- 🌱 I’m currently learning `Rust`
-
-- 💬 Ask me about **JavaScript, Python, React, Node, MongoDB, PSQL**
+- 💬 Ask me about **JavaScript, Python, TypeScript, Rust, React, Node, MongoDB, PSQL**
 
 - 📫 How to reach me **ahmedibarhim556@gmail.com**
 
